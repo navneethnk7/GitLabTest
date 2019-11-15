@@ -1,6 +1,6 @@
-int a
-int b
-def multiplication 
+def multiplication(): 
+	a = 2
+	b = 4
 	c=a*b
-	print c
+	print(c)
 	
